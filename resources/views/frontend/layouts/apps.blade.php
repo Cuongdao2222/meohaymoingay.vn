@@ -39,12 +39,12 @@
                 <meta name="twitter:description" content="Khỏe Đẹp - Chuyên trang sức khỏe và làm đẹp toàn diện hàng đầu chia sẻ các bí quyết về dinh dưỡng, làm đẹp và luyện tập tốt nhất cho bạn cuộc sống hạnh phúc" />
                 <meta name="twitter:title" content="Khỏe Đẹp | Chuyên trang Sức Khỏe &amp; Làm Đẹp" />
                 <meta name="msvalidate.01" content="49CFBFA885E622DD0C51ACF531FB0B25" />
-                <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.khoedep.vn/#website","url":"http://www.khoedep.vn/","name":"Kh\u1ecfe \u0110\u1eb9p","potentialAction":{"@type":"SearchAction","target":"http://www.khoedep.vn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://www.khoedep.vn/#webpage","url":"http://www.khoedep.vn/","inLanguage":"en-US","name":"Kh\u1ecfe \u0110\u1eb9p | Chuy\u00ean trang S\u1ee9c Kh\u1ecfe &amp; L\u00e0m \u0110\u1eb9p","isPartOf":{"@id":"http://www.khoedep.vn/#website"},"datePublished":"2015-09-20T08:57:19+00:00","dateModified":"2022-10-17T15:18:06+00:00","description":"Kh\u1ecfe \u0110\u1eb9p - Chuy\u00ean trang s\u1ee9c kh\u1ecfe v\u00e0 l\u00e0m \u0111\u1eb9p to\u00e0n di\u1ec7n h\u00e0ng \u0111\u1ea7u chia s\u1ebb c\u00e1c b\u00ed quy\u1ebft v\u1ec1 dinh d\u01b0\u1ee1ng, l\u00e0m \u0111\u1eb9p v\u00e0 luy\u1ec7n t\u1eadp t\u1ed1t nh\u1ea5t cho b\u1ea1n cu\u1ed9c s\u1ed1ng h\u1ea1nh ph\u00fac"}]}</script>
+              
                 <!-- / Yoast SEO plugin. -->
                 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
                 <link rel='dns-prefetch' href='//s.w.org' />
-                <link rel="alternate" type="application/rss+xml" title="Khỏe Đẹp &raquo; Feed" href="http://www.khoedep.vn/feed/" />
-                <link rel="alternate" type="application/rss+xml" title="Khỏe Đẹp &raquo; Comments Feed" href="http://www.khoedep.vn/comments/feed/" />
+                <!-- <link rel="alternate" type="application/rss+xml" title="Khỏe Đẹp &raquo; Feed" href="http://www.khoedep.vn/feed/" />
+                <link rel="alternate" type="application/rss+xml" title="Khỏe Đẹp &raquo; Comments Feed" href="http://www.khoedep.vn/comments/feed/" /> -->
                 <script type="text/javascript">
                     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.khoedep.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.22"}};
                     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -474,26 +474,8 @@
                     border-bottom: none;
                     }
                 </style>
-                <script>
-                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-                    
-                    ga('create', 'UA-49015167-1', 'auto');
-                    ga('send', 'pageview');
-                    
-                </script>
-                <!-- Facebook Pixel Code -->
-                <script>
-                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-                    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-                    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-                    document,'script','https://connect.facebook.net/en_US/fbevents.js');
-                    fbq('init', '1245464772554375'); // Insert your pixel ID here.
-                    fbq('track', 'PageView');
-                </script>
+               
+               
                 <noscript><img height="1" width="1" style="display:none"
                     src="https://www.facebook.com/tr?id=1245464772554375&ev=PageView&noscript=1"
                     /></noscript>
@@ -1065,62 +1047,13 @@
                     }
                     }
                 </style>
-                <script type='text/javascript'>
-                    /* <![CDATA[ */
-                    var click_object = {"ajax_url":"http:\/\/www.khoedep.vn\/wp-admin\/admin-ajax.php"};
-                    /* ]]> */
-                </script>
+              
                 <script type='text/javascript' src='{{  asset("wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js")}}'></script>
                 <script type='text/javascript' src='{{  asset("wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.5")}}'></script>
                 <script type='text/javascript' src='{{  asset("wp-includes/js/comment-reply.min.js?ver=4.9.22")}}'></script>
                 <script type='text/javascript' src='{{  asset("wp-includes/js/wp-embed.min.js?ver=4.9.22")}}'></script>
                 <script type='text/javascript' src='{{  asset("wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12.1")}}'></script>
                 <!-- JS generated by theme -->
-                <script>
-                    (function(){
-                        var html_jquery_obj = jQuery('html');
-                    
-                        if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
-                    
-                            var path = 'http://www.khoedep.vn/wp-content/themes/Newspaper/style.css';
-                    
-                            jQuery.get(path, function(data) {
-                    
-                                var str_split_separator = '#td_css_split_separator';
-                                var arr_splits = data.split(str_split_separator);
-                                var arr_length = arr_splits.length;
-                    
-                                if (arr_length > 1) {
-                    
-                                    var dir_path = 'http://www.khoedep.vn/wp-content/themes/Newspaper';
-                                    var splited_css = '';
-                    
-                                    for (var i = 0; i < arr_length; i++) {
-                                        if (i > 0) {
-                                            arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
-                                        }
-                                        //jQuery('head').append('<style>' + arr_splits[i] + '</style>');
-                    
-                                        var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
-                                            return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
-                                        });
-                    
-                                        splited_css += "<style>" + formated_str + "</style>";
-                                    }
-                    
-                                    var td_theme_css = jQuery('link#td-theme-css');
-                    
-                                    if (td_theme_css.length) {
-                                        td_theme_css.after(splited_css);
-                                    }
-                                }
-                            });
-                        }
-                    })();
-                    
-                    
-                    
-                </script>
                 
             </body>
         </html>
