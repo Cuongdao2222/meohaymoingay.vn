@@ -766,7 +766,7 @@
                                         <div class="menu-top-container">
                                             <ul id="menu-khoedep-top" class="top-header-menu">
                                                 <li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-30"><a href="#">Về chúng tôi</a></li>
-                                                <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-32"><a href="http://www.khoedep.vn/lien-he/">Liên hệ</a></li>
+                                                <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-32"><a href="#">Liên hệ</a></li>
                                             </ul>
                                         </div>
                                     </div>
