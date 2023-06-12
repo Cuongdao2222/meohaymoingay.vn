@@ -19,7 +19,7 @@
                 <meta property="description" content="{{ $meta->meta_content }}" /> 
                 <meta name="keywords" content="{{ $meta->meta_key_words??'sieu thi dien may, siêu thị điện máy, mua điện máy giá rẻ, siêu thị điện máy uy tín, siêu thị điện máy trực tuyến' }}"/>
                 @else
-                <title>Khỏe Đẹp | Chuyên trang Sức Khỏe &amp; Làm Đẹp</title>
+                <title>chuyên trang mẹo vặt</title>
                 <meta name="description" content="Khỏe Đẹp - Chuyên trang sức khỏe và làm đẹp toàn diện hàng đầu chia sẻ các bí quyết về dinh dưỡng, làm đẹp và luyện tập tốt nhất cho bạn cuộc sống hạnh phúc"/>
                 @endif
 
